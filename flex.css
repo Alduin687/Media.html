@@ -1,0 +1,8 @@
+nav {
+    display: flex;
+    flex-flow: row-nowrap;
+    justify-content: center;
+    color: white;
+    background-color: var()
+}
+
